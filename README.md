@@ -6,7 +6,7 @@
 /*                                                        :::      ::::::::   */
 /*   42 Piscine (London)                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: thbeck <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By: thbeck &lt;marvin@42.fr&gt;                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/05 09:00:00 by thbeck            #+#    #+#             */
 /*   Updated: 2024/08/30 18:00:00 by thbeck           ###   ########.fr       */
