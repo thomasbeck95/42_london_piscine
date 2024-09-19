@@ -1,4 +1,4 @@
-<h1> 42 Piscine</h1>
+<h1> 42 Piscine 🏊</h1>
 
 <pre class="notranslate"><code>            
 /* ************************************************************************** */
@@ -17,7 +17,7 @@
 ## Foreword
 <p>"The answer to the ultimate question of life, the universe and everything is 42."</p>
 
-## Overview
+## Overview 📖
 
 <b>The Piscine</b> at 42 is basically a four-week coding bootcamp on steroids, and it’s the final test before you can get admitted into their prestigious programming program. Whether you're a complete beginner or someone with a bit of coding experience, this trial is designed to push your limits while introducing you to the unique <b>peer-to-peer</b> learning environment at 42.
 
@@ -27,7 +27,7 @@ Now, it's not all about the grind. The Piscine fosters a strong sense of communi
 
 <b>It’s truly a transformative experience that goes beyond just coding.</b>
 
-## My results
+## My results 📈
 
 <table border="1">
 	<tr>
