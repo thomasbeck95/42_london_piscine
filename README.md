@@ -36,58 +36,98 @@ Now, it's not all about the grind. The Piscine fosters a strong sense of communi
 		<th>Pass/Fail</th>
 	</tr>
 	<tr>
-		<td>Shell00</td>
+		<td>Shell 00</td>
 		<td>50%</td>
 		<td>✅</td>
 	</tr>
 	<tr>
-		<td>Shell01</td>
+		<td>Shell 01</td>
 		<td>0%</td>
 		<td>❎</td>
 	</tr>
 	<tr>
-		<td>C00</td>
+		<td>C 00</td>
 		<td>50%</td>
 		<td>✅</td>
 	</tr>
 	<tr>
-		<td>C01</td>
+		<td>C 01</td>
 		<td>100%</td>
 		<td>✅</td>
 	</tr>
 	<tr>
-		<td>C02</td>
+		<td>C 02</td>
 		<td>80%</td>
 		<td>✅</td>
 	</tr>
 	<tr>
-		<td>C03</td>
+		<td>C 03</td>
 		<td>62%</td>
 		<td>✅</td>
 	</tr>
 	<tr>
-		<td>C04</td>
+		<td>C 04</td>
 		<td>50%</td>
 		<td>✅</td>
 	</tr>
 	<tr>
-		<td>C05</td>
+		<td>C 05</td>
 		<td>80%</td>
 		<td>✅</td>
 	</tr>
 	<tr>
-		<td>C06</td>
+		<td>C 06</td>
 		<td>70%</td>
 		<td>✅</td>
 	</tr>
 	<tr>
-		<td>C07</td>
+		<td>C 07</td>
 		<td>60%</td>
 		<td>✅</td>
 	</tr>
 	<tr>
-		<td>C08</td>
+		<td>C 08</td>
 		<td>0%</td>
 		<td>❎</td>
+	</tr>
+	<tr>
+		<td>Rush 00</td>
+		<td>100%</td>
+		<td>✅</td>
+	</tr>
+	<tr>
+		<td>Rush 01</td>
+		<td>0%</td>
+		<td>❎</td>
+	</tr>
+	<tr>
+		<td>Rush 02</td>
+		<td>10%</td>
+		<td>❎</td>
+	</tr>
+	<tr>
+		<td>BSQ</td>
+		<td>0%</td>
+		<td>❎</td>
+	</tr>
+	<tr>
+		<td>Exam 00</td>
+		<td>50%</td>
+		<td>✅</td>
+	</tr>
+	<tr>
+		<td>Exam 01</td>
+		<td>60%</td>
+		<td>✅</td>
+	</tr>
+	<tr>
+		<td>Exam 02</td>
+		<td>80%</td>
+		<td>✅</td>
+	</tr>
+	<tr>
+		<td>Final Exam</td>
+		<td>66%</td>
+		<td>✅</td>
 	</tr>
 </table>
