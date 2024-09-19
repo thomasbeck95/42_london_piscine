@@ -28,7 +28,9 @@ Now, it's not all about the grind. The Piscine fosters a strong sense of communi
 <b>It’s truly a transformative experience that goes beyond just coding.</b>
 
 ## My results
-
+<h3>Summary</h3>
+<table border="1"></table>
+<h3>Details</h3>
 <table border="1">
 	<tr>
 		<th>Project</th>
