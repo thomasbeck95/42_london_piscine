@@ -33,33 +33,61 @@ Now, it's not all about the grind. The Piscine fosters a strong sense of communi
 	<tr>
 		<th>Project</th>
 		<th>Final Mark</th>
+		<th>Pass/Fail</th>
 	</tr>
 	<tr>
 		<td>Shell00</td>
 		<td>50%</td>
+		<td>✅</td>
 	</tr>
 	<tr>
 		<td>Shell01</td>
 		<td>0%</td>
+		<td>❎</td>
 	</tr>
 	<tr>
 		<td>C00</td>
 		<td>50%</td>
+		<td>✅</td>
 	</tr>
 	<tr>
 		<td>C01</td>
 		<td>100%</td>
+		<td>✅</td>
 	</tr>
 	<tr>
 		<td>C02</td>
 		<td>80%</td>
+		<td>✅</td>
 	</tr>
 	<tr>
 		<td>C03</td>
 		<td>62%</td>
+		<td>✅</td>
 	</tr>
 	<tr>
 		<td>C04</td>
 		<td>50%</td>
+		<td>✅</td>
+	</tr>
+	<tr>
+		<td>C05</td>
+		<td>80%</td>
+		<td>✅</td>
+	</tr>
+	<tr>
+		<td>C06</td>
+		<td>70%</td>
+		<td>✅</td>
+	</tr>
+	<tr>
+		<td>C07</td>
+		<td>60%</td>
+		<td>✅</td>
+	</tr>
+	<tr>
+		<td>C08</td>
+		<td>0%</td>
+		<td>❎</td>
 	</tr>
 </table>
