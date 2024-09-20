@@ -38,7 +38,7 @@ Now, it's not all about the grind. The Piscine fosters a strong sense of communi
 	</tr>
 	<tr>
 		<td>8.75</td>
-		<td>66</td>
+		<td>66%</td>
                  <td>10.5 hours</td>
 		<td>✅</td>
 	</tr>
