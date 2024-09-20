@@ -27,8 +27,23 @@ Now, it's not all about the grind. The Piscine fosters a strong sense of communi
 
 <b>It’s truly a transformative experience that goes beyond just coding.</b>
 
-## My results 📈
-
+## My Results 📈
+<h3>Summary</h3>
+<table border="1">
+	<tr>
+		<th>Final Level</th>
+		<th>Final Exam</th>
+		<th>Mean Time</th>
+		<th>Pass/Fail</th>
+	</tr>
+	<tr>
+		<td>8.75</td>
+		<td>66</td>
+                 <td>10.5 hours</td>
+		<td>✅</td>
+	</tr>
+</table>
+<h3>Details</h3>
 <table border="1">
 	<tr>
 		<th>Project</th>
