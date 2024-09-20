@@ -23,7 +23,7 @@ The Piscine at 42 is basically a four-week coding bootcamp on steroids, and it�
 
 The cool thing is, you're not just sitting through lectures. The whole thing revolves around learning from each other. You dive into C programming right away, tackling increasingly tough challenges with weekly exams. And don’t worry if you hit a wall, because you’ll have the support of your peers—evaluating each other’s work, sharing knowledge, and growing together.
 
-Now, it's not all about the grind. The Piscine fosters a strong sense of community through group projects and social events, so you’ll end up making friends and creating lasting bonds. It's intense, but if you’re lucky enough to get in, stick with it—<b>it’s 100% worth the effort!
+Now, it's not all about the grind. The Piscine fosters a strong sense of community through group projects and social events, so you’ll end up making friends and creating lasting bonds. It's intense, but if you’re lucky enough to get in, stick with it—it’s 100% worth the effort!
 
 It’s truly a transformative experience that goes beyond just coding.
 
